@@ -1,0 +1,17 @@
+<body>
+    <article>
+    <form action="#">
+
+    <div id="container">
+        <p id="titulo">Acesso</p>
+        <p>Nome: <input type="text"></p>
+        <p>Data de nascimento:
+            </p>
+            </div>
+            <article>
+            <fieldset>
+
+        <label for="day">escolha o dia</label>
+        <input  list="cidade" name="day" id="day" placeholder="Dia" />
+        <datalist id="day">
+           
